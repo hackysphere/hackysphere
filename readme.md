@@ -5,4 +5,4 @@
 │└─────┘
 └─────┘
 ```
-[hcks.dev](hcks.dev)
+[hcks.dev](https://hcks.dev)
